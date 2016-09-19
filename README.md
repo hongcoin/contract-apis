@@ -6,7 +6,9 @@ Obtain data from HONG contract with blockchain
 
 ### Installation
 
-`npm install`
+* `npm install`
 
-nodejs HongContractApiServer.js
+* Make a file named `config.json`, with correct parameters set.
+
+* `nodejs HongContractApiServer.js`
 
